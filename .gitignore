@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+# vs
+XRtmpStreamer/.vs/*
+*.tlog
+*.log
+XRtmpStreamer/x64/*
+*.stash

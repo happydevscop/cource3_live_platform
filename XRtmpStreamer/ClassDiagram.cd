@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="XController">
+    <Position X="6.25" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAIACAABABCAAAAEAAACAAAAIiAIAAAABAAAAA=</HashCode>
+      <FileName>XController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XDataThread">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACAAAAAAAAAAAAACAAAAAIKAEAABAKEA=</HashCode>
+      <FileName>XDataThread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QThread" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEwAASAQAAAFISBAQAAAEAAQIBAIUAABRQKQABEA=</HashCode>
+      <FileName>D:\dev\Qt13\5.13.2\msvc2017_64\include\QtCore\qthread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XVideoCapture">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAARAQAsAAACAAAAAAAAAIBACAAAAAAA=</HashCode>
+      <FileName>XVideoCapture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CXAudioRecord">
+    <Position X="3.5" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAQAAAAAAAABAAIAACAAAAAAA=</HashCode>
+      <FileName>XAudioRecord.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XAudioRecord" Collapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEQAAAAAAABAQAAAAAAAAAAAAAIAIAASAAAAAAA=</HashCode>
+      <FileName>XAudioRecord.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CXVideoCapture">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAIAACAAAAAAA=</HashCode>
+      <FileName>XVideoCapture.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CXRtmp" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBAQAAAAAAAAAAAAAQAAACAQAAIAACAAEACAACAAAA=</HashCode>
+      <FileName>XRtmp.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XRtmp" Collapsed="true">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAQAAACAQAAAAAAAAAAKAACAAIA=</HashCode>
+      <FileName>XRtmp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CXMediaEncode" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IDAQwEAAQQABAoAAAAAAgAgAAAAMAACAAEAAAACAACA=</HashCode>
+      <FileName>XMediaEncode.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMediaEncode" Collapsed="true">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oIAAwAYBQQAAAIDAAAAAAQgAAAAMAAIAABASAACAQAA=</HashCode>
+      <FileName>XMediaEncode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mp4Streamer" Collapsed="true">
+    <Position X="15.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABBAAAEAAAAAAAAEAAIAAAIAAAAIAAA=</HashCode>
+      <FileName>Mp4Streamer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XData" Collapsed="true">
+    <Position X="12.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAQAAAAAIAAAAAAAAAAAEACAAAQAAAAAAA=</HashCode>
+      <FileName>XData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XFilter" Collapsed="true">
+    <Position X="15.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIABABAAAAAAAAAABAAAAAAAAAAAAAEAAQ=</HashCode>
+      <FileName>XFilter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XRtmpStreamer" Collapsed="true">
+    <Position X="12.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAgAAEAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>xrtmpstreamer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QWidget" Collapsed="true">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hA6pAGgYqICSoYVAaL8yqpBimu1GwLWO4PBqCgXdwII=</HashCode>
+      <FileName>D:\dev\Qt13\5.13.2\msvc2017_64\include\QtWidgets\qwidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
